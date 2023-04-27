@@ -1,7 +1,9 @@
 ### Hi there! This's Aleksei.
 ---
 
-Languages and tools: Python/Django/Django REST Framework/FastAPI/Flask/Postgre-SQL/SQLAlchemy/Pydantic/Scrapy/Docker/Docker-Compose/Unittest/Linux/Postman/VSCode
+Languages and tools: 
+
+Python/Django/Django REST Framework/FastAPI/Flask/Postgre-SQL/SQLAlchemy/Pydantic/Scrapy/Docker/Docker-Compose/Unittest/Linux/Postman/VSCode
 
 
 Contact me:
