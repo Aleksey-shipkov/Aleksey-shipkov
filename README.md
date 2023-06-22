@@ -3,7 +3,7 @@
 
 Languages and tools: 
 
-Python/Django/Django REST Framework/FastAPI/Flask/Postgre-SQL/SQLAlchemy/Pydantic/Scrapy/Docker/Docker-Compose/Unittest/Linux/Postman/VSCode
+Python/Django/Django REST Framework/FastAPI/Flask/Postgre-SQL/SQLAlchemy/Pydantic/Scrapy/Docker/Docker-Compose/Pytest/Unittest/Linux/Postman/VSCode
 
 
 Contact me:
