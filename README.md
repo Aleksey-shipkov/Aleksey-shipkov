@@ -1,7 +1,13 @@
 ### Hi there! This's Aleksei.
 ---
 
-Languages and tools: 
+## Languages and tools:
+
+Data analysis:
+
+Python/Pandas/Plotly/NumPy/Matplotlib/Scrapy/BeautifulSoup/SQL/PostgreSQL/SQLAlchemy/Tableau/PowerBI/Jupyter Notenook
+
+Backend Development:
 
 Python/Django/Django REST Framework/FastAPI/Flask/Postgre-SQL/SQLAlchemy/Pydantic/Scrapy/Docker/Docker-Compose/Pytest/Unittest/Linux/Postman/VSCode
 
@@ -15,7 +21,7 @@ Contact me:
 ### About me
 ---
 
-- I'm a Backend Developer
+- I'm interested in Data Analysis, Backend Development
 - In love with Python
 - Love art, nature and hiking
 
