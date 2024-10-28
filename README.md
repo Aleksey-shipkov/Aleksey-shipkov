@@ -3,13 +3,10 @@
 
 ## Languages and tools:
 
-Data analysis:
+Data engineering:
 
-Python/Pandas/Plotly/NumPy/Matplotlib/Scrapy/BeautifulSoup/SQL/PostgreSQL/SQLAlchemy/Tableau/PowerBI/Jupyter Notenook
+Python/SQL/PostgreSQL/Jupyter Notenook/VSCode/Docker/Airflow/Spark/Clickhouse
 
-Backend Development:
-
-Python/Django/Django REST Framework/FastAPI/Flask/Postgre-SQL/SQLAlchemy/Pydantic/Scrapy/Docker/Docker-Compose/Pytest/Unittest/Linux/Postman/VSCode
 
 
 Contact me:
@@ -21,7 +18,7 @@ Contact me:
 ### About me
 ---
 
-- I'm interested in Data Analysis, Backend Development
+- I'm interested in Data Engineering
 - In love with Python
 - Love art, nature and hiking
 
