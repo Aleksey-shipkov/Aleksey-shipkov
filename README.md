@@ -19,7 +19,7 @@ Contact me:
 ---
 
 - I'm interested in Data Engineering
-- In love with Python
+- In love with SQL
 - Love art, nature and hiking
 
 ### :fire: My Stats :
