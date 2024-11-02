@@ -11,8 +11,8 @@ Python/SQL/PostgreSQL/Jupyter Notenook/VSCode/Docker/Airflow/Spark/Clickhouse
 
 Contact me:
 <div id="badges">
-  <a href="https://t.me/alex_sh_abc"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/></a>
-  <a href="mailto:shipkov.alexey@gmail.com"><img src="https://img.shields.io/badge/-gmail-green?logo=gmail&logoColor=red"/></a>
+  <a href=_><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/></a>
+  <a href="mailto:_"><img src="https://img.shields.io/badge/-gmail-green?logo=gmail&logoColor=red"/></a>
 </div>
 
 ### About me
